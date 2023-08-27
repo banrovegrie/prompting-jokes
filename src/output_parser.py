@@ -2,7 +2,7 @@ import re
 
 def extract_lines_from_file(file_path):
     with open(file_path, 'r') as file:
-        prompt_id = 1
+        prompt_id = 6
         headline_id = 1
         curr_headline = [-10, -9, -8]
         for line in file:
@@ -37,4 +37,4 @@ def extract_lines_from_file(file_path):
                 if curr_headline[-1] != curr_headline[-2]:
                     print(line.strip())
             
-extract_lines_from_file('dumps/iteration1.txt')
+extract_lines_from_file('dumps/iteration2.txt')
