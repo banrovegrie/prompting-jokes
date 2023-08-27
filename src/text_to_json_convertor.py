@@ -2,9 +2,9 @@
 # coding: utf-8
 
 # In[43]:
+import json
 
-
-f = open("prompting-jokes/src/output.txt")
+f = open("output.txt")
 
 
 # In[44]:
@@ -26,7 +26,7 @@ for i in x:
 # In[46]:
 
 
-f = open("prompting-jokes/src/combined_data.json")
+f = open("combined_data.json")
 names = json.load(f)
 
 
@@ -64,11 +64,11 @@ for i in data:
             json_data.append(entry)
         entry = {"prompt_id": i[1], "description": names_dic[int(i[1].strip())], "headlines": []}
         headline = {}
-    elif i[0] != "Output":
-        headline[i[0]] = i[1]
-    else:
+    headline[i[0]] = i[1]
+    if i[0] == "Output":
         entry["headlines"].append(headline)
         headline = {}
+        
 json_data.append(entry)    
 
 

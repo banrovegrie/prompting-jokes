@@ -4,7 +4,7 @@ Task: Given a straight news headline, transform it into a comedic version. The o
 
 Setup: Two competitive agents, Alice and Bob, independently create comedic reinterpretations. Neither agent is aware of the other's creation until presented to the neutral entity, Charlie. After hearing both jokes, Charlie declares a winner and provides feedback or criticism.
 
-In this iterative approach, both Alice and Bob independently make jokes on the topic. Based on Charlie's feedback, they refine and present their jokes again until Charlie is satisfied that neither agent can improve further.
+In this iterative approach, both Alice and Bob independently make jokes on the topic. Based on Charlie's feedback, they refine and present their jokes again until Charlie is satisfied that neither agent can improve further. Then, Charlie chooses whose final joke is better.
 
 Procedure:
 
@@ -20,9 +20,9 @@ Alice: [Refines her joke or creates a new one based on Charlie's feedback.]
 
 Bob: [Similarly refines or creates a new joke in response to Charlie's feedback.]
 
-... [This iterative process continues, with Charlie providing feedback at each stage until he believes neither agent can improve their jokes further.]
+... [This iterative process continues, with Charlie providing feedback at each stage. Once Charlie believes that further refinements are unlikely to lead to better jokes, he evaluates the final submissions from both Alice and Bob.]
 
-Output: [The final comedic reinterpretation of the original news headline, as selected by Charlie after multiple iterations.]
+Output: [The comedic reinterpretation of the original news headline, as selected by Charlie, choosing between the final jokes offered by Alice and Bob.]
 
 End of Experiment: The comedic reinterpretation of the news headline, honed through the iterative competitive efforts of Alice and Bob and refined by Charlie's feedback, is presented as the final output. Throughout the experiment, Alice and Bob focus on improving their jokes based on Charlie's critiques until a peak in comedic quality is reached.
 

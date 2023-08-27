@@ -1,0 +1,245 @@
+Prompt ID:  6
+
+Headline ID:  1
+Human: Police Tracking Of Cellphones Raises Privacy Fears. WASHINGTON -- Law enforcement tracking of cellphones, once the province mainly of federal agents, has become a powerful and
+Output: In this brave new world where Big Brother's not just peeping, but also GPSing our cellphones, shouldn't we just rebrand 'privacy' to 'pry-vacy'? Now, there's an upgrade that took a wrong exit!
+
+Headline ID:  2
+Human: Mayan Calendar: World Will Not End In December 2012, Expert Says. Yet it is the Mexica, not the Maya, who trafficked in the apocalypse. The Classic Maya had almost no tradition of cataclysmic
+Output: Mayan Calendar: World Will Not End In December 2012, Expert Says. Maybe they were just a few years off and actually predicted the dumpster fire that was 2020.
+
+Headline ID:  3
+Human: Dear G8: Be Bold and Inclusive in Tackling Hunger. As an amateur climber for 20 years, I learned that to scale daunting cliffs and ice, two core attributes are required -- courage and teamwork. You probably feel like you have been climbing your own mountain after two days of G8 talks at Camp David
+Output: Dear G8: When Confronting Hunger, Be Bold, Be Brave, and Pack a Lunchbox. As a seasoned survivor of 20 years of midnight kitchen expeditions, I can confirm the essentials: courage and a reliable snack detector. You may feel like you've conquered K2 after two days of G8 talks at Camp David, but trust me, it's less intimidating than facing a mountain of dishes after a nacho night.
+
+Headline ID:  4
+Human: Dear G8: Be Bold and Inclusive in Tackling Hunger. As an amateur climber for 20 years, I learned that to scale daunting cliffs and ice, two core attributes are required -- courage and teamwork. You probably feel like you have been climbing your own mountain after two days of G8 talks at Camp David
+Output: Dear G8: Be Bold and Inclusive in Tackling Hunger. As an amateur climber for two decades, I've learned that to scale intimidating cliffs and ice, two core attributes are needed - courage and a buddy to blame when you forget the snacks. You're probably feeling like you've been scaling a mountain of paperwork after two days of G8 talks at Camp David - just without the stunning views, adrenaline rush, or even a granola bar.
+
+Headline ID:  5
+Human: If The Holidays Are Driving You Mad, Baby Bjork Reading The Nativity Story Will Help. Once a renegade visionary, always a renegade visionary.
+Output: Holiday hysteria got you on edge? Picture Baby Bjork, draped in tinsel, narrating the Nativity Story while beatboxing to the rhythm of Jingle Bells. It's like a Christmas carol on a cosmic acid trip!
+
+Headline ID:  6
+Human: How the Giants Collapsed. With the season only half over, the Giants still could end up with a playoff spot, but if they continue their losing ways for another week or two, even that will be unlikely.
+Output: "The Giants, in a surprising turn of events, are now leading in a different kind of league: the world's tallest limbo dancers. Meanwhile, David's statue in Florence breathes a sigh of relief."
+
+Headline ID:  7
+Human: The Most Haunting Version of Adele's 'Hello' So Far. Mozart cello mash-up is off the musical scale.
+Output: 'Hello?' Adele on ghost cell after Mozart bounces from their haunting cello mash-up. Rumors say he's still spooked, only responding to phantom rings.
+
+Headline ID:  8
+Human: U.S. Takes Apple To Trial Over eBooks: 'This Case Will Effectively Set The Rules For Internet Commerce'. The Justice Department contends that Apple's entry into the market provided publishers with a means to get together to increase
+Output: U.S. drags Apple to court over eBooks: 'This case will rewrite the rules for internet shopping'. The Justice Department argues that Apple's entrance into the market was like giving bookworms a library card and an endless collection... without the fear of late fees!
+
+Headline ID:  9
+Human: Don't Call Them Dropouts. No one should sit in judgment of the challenging choices many Americans have to make and the circumstances that lead them to leave school.
+Output: Don't Call Them Dropouts. They're just pioneers in the field of 'Educational Sabbaticals', exploring the wilderness of life's unpredictability!
+
+Headline ID:  10
+Human: Raising a Child With Olympic Resilience: These Stories Will Amaze You. You may not be raising a child who is destined to become an Olympian, but there are lessons every parent can learn here about how to raise an Olympian -- in life.
+Output: "How to Raise Your Child to be an Olympian, or at Least a Resilient Gold Medalist in Dodging Your Thrown Sneakers at 5 AM."
+
+Headline ID:  11
+Human: Alleged 'Nigerian Prince' Email Scammer Arrested In Louisiana. He does not appear to be Nigerian or a prince.
+Output: 'Nigerian Prince' Email Scammer Arrested. What was his crown? A baseball cap. His scepter? A computer mouse. His palace? A dingy basement in Louisiana.
+
+Headline ID:  12
+Human: Atomic Clocks Are Accurate, But 'Nuclear' Clock Would Be Almost 100 Times More Accurate. This makes for a more accurate clock because neutrons are bound much more tightly to a nucleus than electrons to atoms. As
+Output: Atomic clocks feel the 'nuclear' pressure as neutrons claim, 'We're tighter with the nucleus than you are with atoms. Time you faced the tick-tock, buddy!'
+
+Headline ID:  13
+Human: Five Tips to Ensure You Are the Father of Her Dreams on Your Daughter's Wedding Day. As weddings have become more personal and creative reflections of the engaged couples at any budget, the father of the bride's role has become more flexible as well.
+Output: Five Tips to Steal the Spotlight: How to Become Dad of the Year at Your Daughter's Wedding Without Budget Blunders!
+
+Headline ID:  14
+Human: Sudan Military, Opposition Groups Agree To Resume Talks After Strike Suspended. A special envoy said Tuesday that Sudan's military and opposition have agreed to resume talks on forming a transitional council.
+Output: Sudan's military and opposition finally end their strike, opting to resume talks instead. Apparently, they realized that their silent standoff was less "transitional council," and more "preschool timeout"!
+
+Headline ID:  15
+Human: How to Keep Happiness From Fading. Why can't we make the happiness last?  Psychologists (and renown happiness experts) Kennon Sheldon and Sonja Lyubomirsky argue in a recent paper that our hedonic adaption occurs for two reasons.
+Output: Psychologists Find Happiness Fades Fast: Apparently, it disappears quicker than my enthusiasm for New Year's resolutions – and that's saying something!
+
+Headline ID:  16
+Human: Re-Gifting: The New Rules for This Holiday Season. Due to the "great recession" we have become increasingly more time crunched and more thoughtful about over-spending. It only makes sense that with these changes in our lives we have also seen a change in our philosophy toward re-gifting.
+Output: This Holiday Season: Santa's Sleigh is Fueled by Deja Vu Presents. The 'great recession' has morphed us into penny-pinching time travelers, and our stockings are echoing with the festive jingle of 'been there, unwrapped that'. Santa's new motto: 'Ho-Ho-Hold on, isn't this the same fruitcake from last year?'
+
+Headline ID:  17
+Human: Single Moms On TV: Our Favorites Revealed. Over the last four decades, the number of single moms in the U.S. has increased dramatically -- from 3.5 million in 1970
+Output: Single Moms On TV: Our Favorites Showcased. Over the last four decades, the number of single moms in the U.S. has surged faster than the number of people saying "I'll start my diet tomorrow" after the holidays!
+
+Headline ID:  18
+Human: Putin Insists Olympic Skater Caught In Doping Scandal Didn’t Compete ‘Dishonestly’. The Russian president defied reality on Kamila Valieva, whose drug case dominated this year’s Winter Olympics in Beijing.
+Output: Putin Insists Doping Skater was Just Trying to 'Break the Ice' - President Caught Skating on Thin Ice with a Frosty Tale of Innocence!
+
+Headline ID:  19
+Human: Roasted Zucchini Salad With Chickpea and Lemon Zest. The juice and zest from the lemon makes this dish sweet and tart, while the caramelized zucchini adds smokiness. Quick and simple to make this little salad pairs well with almost anything!
+Output: When life gives you lemons, forget lemonade! Go full Gordon Ramsay and whip up a zesty roasted zucchini salad with chickpeas. It's like a culinary fashion faux pas, pairing summer zucchini with winter roast - it's the food equivalent of wearing flip-flops with a fur coat!
+
+Headline ID:  20
+Human: Tipping 15 Percent? Many Diners Pay 25 To 30 Percent Gratuity In City Restaurants. According to the Bureau of Labor Statistics, food and beverage service workers made a median hourly wage of $8.72 per hour
+Output: City diners tip 25-30%, local math teachers start a 'recalculate' campaign!
+
+Prompt ID:  7
+
+Headline ID:  1
+Human: Police Tracking Of Cellphones Raises Privacy Fears. WASHINGTON -- Law enforcement tracking of cellphones, once the province mainly of federal agents, has become a powerful and
+Output: Cellphone tracking by police raises privacy concerns. In other words, Santa Claus has some serious competition in the 'knowing-when-you're-awake' department.
+
+Headline ID:  2
+Human: Mayan Calendar: World Will Not End In December 2012, Expert Says. Yet it is the Mexica, not the Maya, who trafficked in the apocalypse. The Classic Maya had almost no tradition of cataclysmic
+Output: Mayan Calendar: World Will Not End In December 2012, Expert Says. So, you're saying there's still a chance for me to win the lottery... bigger than the apocalypse, right?" - Alice's Joke.
+
+Headline ID:  3
+Human: Big Tax Deductions for College Expenses. Paying for college is costly.  But there are some tax benefits that can help parents who are footing the bill, or students who are independent.
+Output: IRS Announces 'Tuition Goes to Tuition' Tax Scheme, Parents Contemplate More Kids.
+
+Headline ID:  4
+Human: Dear G8: Be Bold and Inclusive in Tackling Hunger. As an amateur climber for 20 years, I learned that to scale daunting cliffs and ice, two core attributes are required -- courage and teamwork. You probably feel like you have been climbing your own mountain after two days of G8 talks at Camp David
+Output: Dear G8: If tackling hunger was like a 20-year climbing hobby, you'd all be stuck at base camp arguing over who ate the last granola bar. After two days at Camp David, I bet you're all eyeing each other's snacks suspiciously!
+
+Headline ID:  5
+Human: If The Holidays Are Driving You Mad, Baby Bjork Reading The Nativity Story Will Help. Once a renegade visionary, always a renegade visionary.
+Output: Craving holiday sanity? Let Baby Bjork's Nativity story be your mental lifeboat. Because when the going gets tough, the tough turn to visionary infants.
+
+Headline ID:  6
+Human: How the Giants Collapsed. With the season only half over, the Giants still could end up with a playoff spot, but if they continue their losing ways for another week or two, even that will be unlikely.
+Output: The Giants are losing so much, they're thinking about competing in dominoes instead. That way, their fans can cheer, "They fall, they score!"
+
+Headline ID:  7
+Human: The Most Haunting Version of Adele's 'Hello' So Far. Mozart cello mash-up is off the musical scale.
+Output: Adele's 'Hello' got a Mozart cello mash-up. Now, it's so haunting, even Casper the Friendly Ghost asked for a night light.
+
+Headline ID:  8
+Human: U.S. Takes Apple To Trial Over eBooks: 'This Case Will Effectively Set The Rules For Internet Commerce'. The Justice Department contends that Apple's entry into the market provided publishers with a means to get together to increase
+Output: U.S. accuses Apple of providing publishers a way to increase eBook prices. In a shocking turn of events, Apple has been secretly running a book club that's too exclusive and expensive!
+
+Headline ID:  9
+Human: Don't Call Them Dropouts. No one should sit in judgment of the challenging choices many Americans have to make and the circumstances that lead them to leave school.
+Output: Don't Call Them Dropouts. They're just auditioning for the role of 'Future Billionaire Tech Mogul Who Dropped Out of School'.
+
+Headline ID:  10
+Human: Raising a Child With Olympic Resilience: These Stories Will Amaze You. You may not be raising a child who is destined to become an Olympian, but there are lessons every parent can learn here about how to raise an Olympian -- in life.
+Output: Raising a Child with Olympic Resilience: Because the 'Triathlon of Tantrums' is a sport that deserves recognition too!
+
+Headline ID:  11
+Human: Alleged 'Nigerian Prince' Email Scammer Arrested In Louisiana. He does not appear to be Nigerian or a prince.
+Output: "Nigerian Prince" discovered in Louisiana. His kingdom? Spam folder. His wealth? A pile of stolen credit card numbers.
+
+Headline ID:  12
+Human: Atomic Clocks Are Accurate, But 'Nuclear' Clock Would Be Almost 100 Times More Accurate. This makes for a more accurate clock because neutrons are bound much more tightly to a nucleus than electrons to atoms. As
+Output:  "A 'nuclear' clock, huh? Now we can accurately calculate the exact moment we collectively realized we're procrastinating too much!"
+
+Headline ID:  13
+Human: Five Tips to Ensure You Are the Father of Her Dreams on Your Daughter's Wedding Day. As weddings have become more personal and creative reflections of the engaged couples at any budget, the father of the bride's role has become more flexible as well.
+Output: Five Secrets to Ensuring Your Dad Bod is Wedding-Ready. Because nothing says 'Father of the Bride' like a tuxedo button begging for mercy!
+
+Headline ID:  14
+Human: Sudan Military, Opposition Groups Agree To Resume Talks After Strike Suspended. A special envoy said Tuesday that Sudan's military and opposition have agreed to resume talks on forming a transitional council.
+Output: Sudan's Military and Opposition Reach a Compromise: One Gets to Binge-Watch Game of Thrones on Even Days, the Other on Odd Days.
+
+Headline ID:  15
+Human: How to Keep Happiness From Fading. Why can't we make the happiness last?  Psychologists (and renown happiness experts) Kennon Sheldon and Sonja Lyubomirsky argue in a recent paper that our hedonic adaption occurs for two reasons.
+Output: Happiness Fades for Two Reasons, Say Psychologists. In unrelated news, coffee machine manufacturers report record profits.
+
+Headline ID:  16
+Human: Re-Gifting: The New Rules for This Holiday Season. Due to the "great recession" we have become increasingly more time crunched and more thoughtful about over-spending. It only makes sense that with these changes in our lives we have also seen a change in our philosophy toward re-gifting.
+Output: Re-Gifting: The Economical and Time-Saving Trend Santa Didn't See Coming
+
+Headline ID:  17
+Human: Single Moms On TV: Our Favorites Revealed. Over the last four decades, the number of single moms in the U.S. has increased dramatically -- from 3.5 million in 1970
+Output: TV Single Moms: Our Favorites Uncovered. Just like in the U.S., the number of TV moms doing the 'find the remote' treasure hunt has soared.
+
+Headline ID:  18
+Human: Putin Insists Olympic Skater Caught In Doping Scandal Didn’t Compete ‘Dishonestly’. The Russian president defied reality on Kamila Valieva, whose drug case dominated this year’s Winter Olympics in Beijing.
+Output: Putin on doping scandal: "She wasn't cheating, just high on enthusiasm!"
+
+Headline ID:  19
+Human: Roasted Zucchini Salad With Chickpea and Lemon Zest. The juice and zest from the lemon makes this dish sweet and tart, while the caramelized zucchini adds smokiness. Quick and simple to make this little salad pairs well with almost anything!
+Output: If I tried this recipe, the fire department would be on standby with a "we told you so" banner. The zucchini's sun tan turned into a charcoal tattoo, and the chickpeas would be playing the role of miniature rocks. The lemon? It's now on therapy for its sweet-and-tart split personality disorder.
+
+Headline ID:  20
+Human: Tipping 15 Percent? Many Diners Pay 25 To 30 Percent Gratuity In City Restaurants. According to the Bureau of Labor Statistics, food and beverage service workers made a median hourly wage of $8.72 per hour
+Output: City diners are playing a new game called "Surprise Math Test"! The objective? Turn an $8.72 hourly wage into a fortune with a 30% tip.
+
+Prompt ID:  8
+
+Headline ID:  1
+Human: Police Tracking Of Cellphones Raises Privacy Fears. WASHINGTON -- Law enforcement tracking of cellphones, once the province mainly of federal agents, has become a powerful and
+Output: "From Big Brother to Big Data, Police Now Tracking Cellphones. Say hello to our new followers: The boys in blue!"
+
+Headline ID:  2
+Human: Mayan Calendar: World Will Not End In December 2012, Expert Says. Yet it is the Mexica, not the Maya, who trafficked in the apocalypse. The Classic Maya had almost no tradition of cataclysmic
+Output: "Mayan Calendar Dismisses 2012 Doomsday Rumors; Mexica Upset Their Apocalypse Only Made Page 2".
+
+Headline ID:  3
+Human: Big Tax Deductions for College Expenses. Paying for college is costly.  But there are some tax benefits that can help parents who are footing the bill, or students who are independent.
+Output: "College Bills: More Fearsome Than a Supervillain, But Never Fear - Tax Deductions Are Here, Dressed in a Batman Onesie!"
+
+Headline ID:  4
+Human: Dear G8: Be Bold and Inclusive in Tackling Hunger. As an amateur climber for 20 years, I learned that to scale daunting cliffs and ice, two core attributes are required -- courage and teamwork. You probably feel like you have been climbing your own mountain after two days of G8 talks at Camp David
+Output: "G8 Leaders: 'Scaling Hunger Crisis is Our Everest - Sherpas Needed, Apply Within'"
+
+Headline ID:  5
+Human: If The Holidays Are Driving You Mad, Baby Bjork Reading The Nativity Story Will Help. Once a renegade visionary, always a renegade visionary.
+Output: If the Holidays are Turning You into Scrooge, Baby Bjork's Nativity Tale is Your Caroling Antidote. Some babies trade their rattles for microphones!
+
+Headline ID:  6
+Human: How the Giants Collapsed. With the season only half over, the Giants still could end up with a playoff spot, but if they continue their losing ways for another week or two, even that will be unlikely.
+Output: "Giants' Playoff Hopes, Now as Slim as Their Chance of Winning a Kale Smoothie Chugging Contest, Might Vanish Quicker Than Players' Enthusiasm After Coach's Half-Time Pep Talk."
+
+Headline ID:  7
+Human: The Most Haunting Version of Adele's 'Hello' So Far. Mozart cello mash-up is off the musical scale.
+Output: "Mozart's ghost says 'Hello' from the 18th century, remixes Adele's hit on a cello: 'Can you hear me now?'"
+
+Headline ID:  8
+Human: U.S. Takes Apple To Trial Over eBooks: 'This Case Will Effectively Set The Rules For Internet Commerce'. The Justice Department contends that Apple's entry into the market provided publishers with a means to get together to increase
+Output: "Apple's latest feature: 'iMeet', turning group chats into eBook price hikes!"
+
+Headline ID:  9
+Human: Don't Call Them Dropouts. No one should sit in judgment of the challenging choices many Americans have to make and the circumstances that lead them to leave school.
+Output: "They're not dropouts. They've just transferred to the University of Life, where the only prerequisite is experience!"
+
+Headline ID:  10
+Human: Raising a Child With Olympic Resilience: These Stories Will Amaze You. You may not be raising a child who is destined to become an Olympian, but there are lessons every parent can learn here about how to raise an Olympian -- in life.
+Output: "Raising an Olympian: When Your Kid's Homework Feels like Training for a Triathlon!"
+
+Headline ID:  11
+Human: Alleged 'Nigerian Prince' Email Scammer Arrested In Louisiana. He does not appear to be Nigerian or a prince.
+Output: "Nigerian Prince Scam Exposed in Louisiana - Turns Out 'Prince' is a Local Bob!"
+
+Headline ID:  12
+Human: Atomic Clocks Are Accurate, But 'Nuclear' Clock Would Be Almost 100 Times More Accurate. This makes for a more accurate clock because neutrons are bound much more tightly to a nucleus than electrons to atoms. As
+Output: "Thanks to Nuclear Clocks, You Can Now Experience the Regret of Being Late in Record Time - 100 Nanoseconds Earlier!"
+
+Headline ID:  13
+Human: Five Tips to Ensure You Are the Father of Her Dreams on Your Daughter's Wedding Day. As weddings have become more personal and creative reflections of the engaged couples at any budget, the father of the bride's role has become more flexible as well.
+Output: "Five Tips to Transform into the Superhero Dad at Your Daughter's Wedding: From flash mob commander to emergency cake-baker, who needs a wedding planner when Dad's in charge!"
+
+Headline ID:  14
+Human: Sudan Military, Opposition Groups Agree To Resume Talks After Strike Suspended. A special envoy said Tuesday that Sudan's military and opposition have agreed to resume talks on forming a transitional council.
+Output: Sudan's Military and Opposition Swap Strikes for Slides: PowerPoint Showdown on the Horizon.
+
+Headline ID:  15
+Human: How to Keep Happiness From Fading. Why can't we make the happiness last?  Psychologists (and renown happiness experts) Kennon Sheldon and Sonja Lyubomirsky argue in a recent paper that our hedonic adaption occurs for two reasons.
+Output: "Happiness: The Blockbuster Hit You Wish Had a Sequel!"
+
+Headline ID:  16
+Human: Re-Gifting: The New Rules for This Holiday Season. Due to the "great recession" we have become increasingly more time crunched and more thoughtful about over-spending. It only makes sense that with these changes in our lives we have also seen a change in our philosophy toward re-gifting.
+Output: "This Holiday Season: Re-Gifting, Because 'Old' is the New 'New'!"
+
+Headline ID:  17
+Human: Single Moms On TV: Our Favorites Revealed. Over the last four decades, the number of single moms in the U.S. has increased dramatically -- from 3.5 million in 1970
+Output: "Single TV Moms: Quadrupling in Numbers, Doubling the Laughs, and Winning Our Hearts Over Four Decades!"
+
+Headline ID:  18
+Human: Putin Insists Olympic Skater Caught In Doping Scandal Didn’t Compete ‘Dishonestly’. The Russian president defied reality on Kamila Valieva, whose drug case dominated this year’s Winter Olympics in Beijing.
+Output: "Putin insists Olympic skater wasn't doping, she was just aiming for the 'Guinness World Record for Vitamin C Intake'."
+
+Headline ID:  19
+Human: Roasted Zucchini Salad With Chickpea and Lemon Zest. The juice and zest from the lemon makes this dish sweet and tart, while the caramelized zucchini adds smokiness. Quick and simple to make this little salad pairs well with almost anything!
+Output: "Zucchini gets a lemony glow-up and turns up the heat in a salad that's as versatile as a Swiss Army knife at a chameleon's color-changing contest!"
+
+Headline ID:  20
+Human: Tipping 15 Percent? Many Diners Pay 25 To 30 Percent Gratuity In City Restaurants. According to the Bureau of Labor Statistics, food and beverage service workers made a median hourly wage of $8.72 per hour
+Output: "City diners tip so generously, waiters might soon be the ones buying the restaurants!"

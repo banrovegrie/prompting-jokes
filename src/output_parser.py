@@ -37,4 +37,4 @@ def extract_lines_from_file(file_path):
                 if curr_headline[-1] != curr_headline[-2]:
                     print(line.strip())
             
-extract_lines_from_file('dumps/iteration2.txt')
+extract_lines_from_file('dumps/iteration3.txt')
