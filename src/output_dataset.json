@@ -1,6 +1,6 @@
 [
     {
-        "prompt_id": "  1",
+        "prompt_id": 1,
         "description": "Sequential Enhancement Framework for Comedic Headline Reinterpretation",
         "headlines": [
             {
@@ -107,7 +107,7 @@
         ]
     },
     {
-        "prompt_id": "  2",
+        "prompt_id": 2,
         "description": "Setup and Punchline Framework for Comedic Headline Reinterpretation",
         "headlines": [
             {
@@ -214,7 +214,7 @@
         ]
     },
     {
-        "prompt_id": "  3",
+        "prompt_id": 3,
         "description": "Coarse-to-Fine Framework for Comedic Headline Reinterpretation",
         "headlines": [
             {
@@ -321,7 +321,7 @@
         ]
     },
     {
-        "prompt_id": "  4",
+        "prompt_id": 4,
         "description": "Comedic Headline Reinterpretation",
         "headlines": [
             {
@@ -428,7 +428,7 @@
         ]
     },
     {
-        "prompt_id": "  5",
+        "prompt_id": 5,
         "description": "Thoughtful Creation Framework for Comedic Headline Reinterpretation",
         "headlines": [
             {
@@ -535,7 +535,7 @@
         ]
     },
     {
-        "prompt_id": "  6",
+        "prompt_id": 6,
         "description": "Feedback-Based Scoring Framework for Comedic Headline Reinterpretation",
         "headlines": [
             {
@@ -642,7 +642,7 @@
         ]
     },
     {
-        "prompt_id": "  7",
+        "prompt_id": 7,
         "description": "Iterative Competitive Creation Framework for Comedic Headline Reinterpretation",
         "headlines": [
             {
@@ -749,7 +749,7 @@
         ]
     },
     {
-        "prompt_id": "  8",
+        "prompt_id": 8,
         "description": "Adversarial Debate Framework for Comedic Headline Reinterpretation",
         "headlines": [
             {

@@ -20,7 +20,7 @@ data = []
 for i in x:
     i = i.strip()
     if i:
-        data.append(i.split(":",1))
+        data.append(i.split(":", 1))
 
 
 # In[46]:
@@ -62,14 +62,18 @@ for i in data:
     if i[0] == "Prompt ID":
         if entry:
             json_data.append(entry)
-        entry = {"prompt_id": i[1], "description": names_dic[int(i[1].strip())], "headlines": []}
+        entry = {
+            "prompt_id": int(i[1].strip()),
+            "description": names_dic[int(i[1].strip())],
+            "headlines": [],
+        }
         headline = {}
     headline[i[0]] = i[1]
     if i[0] == "Output":
         entry["headlines"].append(headline)
         headline = {}
-        
-json_data.append(entry)    
+
+json_data.append(entry)
 
 
 # In[51]:
@@ -81,12 +85,8 @@ import json
 # In[52]:
 
 
-with open("output_dataset.json","w") as f:
+with open("output_dataset.json", "w") as f:
     json.dump(json_data, f)
 
 
 # In[ ]:
-
-
-
-
