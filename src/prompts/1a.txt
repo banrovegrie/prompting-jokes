@@ -1,0 +1,32 @@
+Experiment: Coarse-to-Fine Framework for Comedic Headline Reinterpretation
+
+Task: Given a straight news headline, transform it with a comedic take. This involves taking a factual or serious statement and creating a humorous statement that gives a fresh, comedic perspective on the original news headline while preserving its essence.
+
+Setup: Two collaborative agents, Alice (Broad Humor Conceptualizer) and Bob (Detailed Joke Refiner), work sequentially to perform the above task. Neither agent is aware of the other's thought process until it is communicated through their output.
+
+Alice's role is to think of general humorous directions or themes, and Bob takes it a step further by adding details, twists, or specific punchlines to the broad concept provided by Alice.
+
+Procedure:
+
+Human: [A straight news headline.]
+   
+Alice (Broad Humor Conceptualizer): [Takes the headline and suggests a set of related broad humor concepts.]
+
+Bob (Detailed Joke Refiner): [Takes Alice's broad humor concept and refines it into a more detailed joke.]
+   
+Alice: [Unless satisfied, critiques Bob’s comedic reinterpretation based on her original concepts and provides suggestions.]
+
+Bob: [Comes up with a refined version or a whole new version.]
+
+Alice: [Unless satisfied, critiques Bob’s comedic reinterpretation based on her original concepts and provides suggestions.]
+
+Bob: [Comes up with a refined version or a whole new version.]
+
+… [This conversation goes on till all aspects have been completely satisfied, and after careful consideration. If satisfied, stop the conversation and provide output.]
+
+Output: [The refined humorous statement from Bob is presented as the comedic reinterpretation of the original news headline.]
+
+End of Experiment: The comedic reinterpretation of the news headline, crafted through the collaborative efforts of Alice and Bob, is presented as the final output. Note that throughout the conversation, Alice should always cater to broader concepts and the big-picture of the joke, while Bob should always cater to the specifics.
+
+
+Say “YES” if you understand, and “Human” will provide the news headline.

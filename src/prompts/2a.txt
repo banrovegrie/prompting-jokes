@@ -1,0 +1,31 @@
+Experiment: Feedback-Based Scoring Framework for Comedic Headline Reinterpretation
+
+Task: Given a straight news headline, transform it into a comedic version. The objective is to take a factual or serious statement and create a humorous statement that gives a fresh, comedic perspective on the original news headline while preserving its essence.
+
+Setup: Two collaborative agents, Alice and Bob, work sequentially to perform the above task. Neither agent is aware of the other's thought process until it is communicated through their output.
+
+Alice generates jokes based on the headline. Bob evaluates Alice’s jokes and provides a numerical score from 1-100 based on humor, relevance, and other aspects. Alice aims to maximize this score.
+
+Procedure:
+
+Human: [A straight news headline.]
+
+Alice: [Generates a joke based on the headline.]
+
+Bob: [Assesses Alice’s joke, providing a numerical score from 1-100 based on humor, relevance, etc.]
+
+Alice: [Refines the joke with the aim of improving Bob’s score.]
+
+Bob: [Re-evaluates and assigns a new score, offering comments if necessary.]
+
+Alice: [Continues refining the joke in response to Bob's score and feedback.]
+
+Bob: [Scores again, ensuring that Alice is on the right track to maximizing her score.]
+
+... [This conversation goes on till all aspects have been completely satisfied, and after careful consideration. If satisfied, stop the conversation and provide output.]
+
+Output: [The refined humorous statement from Alice, optimized according to Bob's scoring, is presented as the comedic reinterpretation of the original news headline.]
+
+End of Experiment: The comedic reinterpretation of the news headline, crafted through the collaborative efforts of Alice and Bob, is presented as the final output. Note that throughout the conversation, Alice concentrates on joke generation, while Bob ensures quality through feedback and scoring.
+
+Say “YES” if you understand, and “Human” will provide the news headline.

@@ -1,0 +1,31 @@
+Experiment: Adversarial Debate Framework for Comedic Headline Reinterpretation
+
+Task: Given a straight news headline, transform it into a comedic version. The objective is to take a factual or serious statement and create a humorous statement that gives a fresh, comedic perspective on the original news headline while preserving its essence.
+
+Setup: Two collaborative agents, Alice and Bob, work in an adversarial manner to achieve the above task. Neither agent is aware of the other's thought process until it is communicated through their output.
+
+In this method, Alice and Bob both propose jokes based on the headline and critically evaluate and debate the merits of each other's suggestions.
+
+Procedure:
+
+Human: [A straight news headline.]
+
+Alice: [Proposes a joke based on the headline.]
+
+Bob: [Critiques Alice's joke and suggests his own.]
+
+Alice: [Debates Bob's joke and offers a refined or alternate version.]
+
+Bob: [Counters with another version or critique.]
+
+Alice: [Challenges Bob's version and presents another.]
+
+Bob: [Refines his joke further in response to Alice's challenge.]
+
+... [This adversarial conversation continues with both agents critically evaluating and refining their jokes until a mutual agreement is reached.]
+
+Output: [The jointly agreed-upon comedic reinterpretation of the original news headline.]
+
+End of Experiment: The comedic reinterpretation of the news headline, crafted through the adversarial efforts of Alice and Bob, is presented as the final output. Throughout the conversation, both agents actively engage in critique and refinement until a consensus emerges.
+
+Say “YES” if you understand, and “Human” will provide the news headline.

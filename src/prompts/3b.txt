@@ -1,0 +1,5 @@
+Experiment: Comedic Headline Reinterpretation
+
+Task: Given a straight news headline, transform it into a comedic version. The objective is to take a factual or serious statement and create a humorous statement that offers a fresh, comedic perspective on the original news headline while preserving its essence.
+
+Say “YES” if you understand, and “Human” will provide the news headline.

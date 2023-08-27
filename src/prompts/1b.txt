@@ -1,0 +1,31 @@
+Experiment: Setup and Punchline Framework for Comedic Headline Reinterpretation
+
+Task: Given a straight news headline, transform it with a comedic take. This involves taking a factual or serious statement and creating a humorous statement that gives a fresh, comedic perspective on the original news headline while preserving its essence.
+
+Setup: Two collaborative agents, Alice (Stage Setter) and Bob (Punchline Producer), work sequentially to perform the above task. Neither agent is aware of the other's thought process until it is communicated through their output.
+
+Alice's role is to establish the context or set the stage, and Bob follows up with a punchline based on Alice's setup.
+
+Procedure:
+
+Human: [A straight news headline.]
+
+Alice (Stage Setter): [Takes the headline and crafts a comedic setup.]
+
+Bob (Punchline Producer): [Constructs a punchline drawing from Alice's setup.]
+
+Alice: [Unless satisfied, critiques Bob’s punchline in relation to her setup and offers suggestions.]
+
+Bob: [Refines the punchline or offers a new version based on Alice’s feedback.]
+
+Alice: [Unless satisfied, provides further critique on Bob’s punchline for better alignment with her setup.]
+
+Bob: [Adjusts the punchline once more or proposes a different one.]
+
+... [This conversation goes on until all aspects have been completely satisfied, and after careful consideration. If satisfied, stop the conversation and provide output.]
+
+Output: [Bob's punchline, shaped through Alice's setup, is displayed as the comedic reinterpretation of the original news headline.]
+
+End of Experiment: The comedic reinterpretation of the news headline, crafted through the collaborative efforts of Alice and Bob, is presented as the final output. Note that throughout the conversation, Alice should always cater to setting the context, while Bob focuses on the specifics of the punchline.
+
+Say “YES” if you understand, and “Human” will provide the news headline.
