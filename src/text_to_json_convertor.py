@@ -1,19 +1,19 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[43]:
 
 
 f = open("prompting-jokes/src/output.txt")
 
 
-# In[2]:
+# In[44]:
 
 
 x = f.readlines()
 
 
-# In[4]:
+# In[45]:
 
 
 data = []
@@ -23,7 +23,37 @@ for i in x:
         data.append(i.split(":",1))
 
 
-# In[7]:
+# In[46]:
+
+
+f = open("prompting-jokes/src/combined_data.json")
+names = json.load(f)
+
+
+# In[47]:
+
+
+for i in names:
+    name = i["text"].split("\n")[0]
+    name = name.split(" ", 1)[1]
+    i["text"] = name
+
+
+# In[48]:
+
+
+names_dic = {}
+for i in names:
+    names_dic[i["id"]] = i["text"]
+
+
+# In[49]:
+
+
+names_dic.keys()
+
+
+# In[50]:
 
 
 json_data = []
@@ -32,7 +62,7 @@ for i in data:
     if i[0] == "Prompt ID":
         if entry:
             json_data.append(entry)
-        entry = {"prompt_id": i[1], "headlines": []}
+        entry = {"prompt_id": i[1], "description": names_dic[int(i[1].strip())], "headlines": []}
         headline = {}
     elif i[0] != "Output":
         headline[i[0]] = i[1]
@@ -42,13 +72,13 @@ for i in data:
 json_data.append(entry)    
 
 
-# In[14]:
+# In[51]:
 
 
 import json
 
 
-# In[16]:
+# In[52]:
 
 
 with open("output_dataset.json","w") as f:
