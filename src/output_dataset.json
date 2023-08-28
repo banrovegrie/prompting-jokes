@@ -4,7 +4,6 @@
         "description": "Sequential Enhancement Framework for Comedic Headline Reinterpretation",
         "headlines": [
             {
-                "Prompt ID": "  1",
                 "Headline ID": "  1",
                 "Human": " Police Tracking Of Cellphones Raises Privacy Fears. WASHINGTON -- Law enforcement tracking of cellphones, once the province mainly of federal agents, has become a powerful and",
                 "Output": " \"Local law enforcement now offering new mobile plan - Cops & Robbers UnLimited: You never walk alone! Includes features such as 24/7 location tracking, free handcuffs with every contract, and a 'get out of jail' card for every 10th call intercepted! Sign up now and get 'Cell'ular service that's really 'behind bars'. Plus, enjoy the 'jailbreak' feature - limited to once per customer!\""
@@ -111,7 +110,6 @@
         "description": "Setup and Punchline Framework for Comedic Headline Reinterpretation",
         "headlines": [
             {
-                "Prompt ID": "  2",
                 "Headline ID": "  1",
                 "Human": " Police Tracking Of Cellphones Raises Privacy Fears. WASHINGTON -- Law enforcement tracking of cellphones, once the province mainly of federal agents, has become a powerful and",
                 "Output": " \"...and just when you thought dumping your ex was a relief, here come the police, refusing to get the 'it's not you, it's me' memo!\""
@@ -218,7 +216,6 @@
         "description": "Coarse-to-Fine Framework for Comedic Headline Reinterpretation",
         "headlines": [
             {
-                "Prompt ID": "  3",
                 "Headline ID": "  1",
                 "Human": " Police Tracking Of Cellphones Raises Privacy Fears. WASHINGTON -- Law enforcement tracking of cellphones, once the province mainly of federal agents, has become a powerful and",
                 "Output": " \"Police tracking of cellphones now so intense, they sent a SWAT team to a local pizzeria because they thought your triple pepperoni order was a coded threat.\""
@@ -325,7 +322,6 @@
         "description": "Comedic Headline Reinterpretation",
         "headlines": [
             {
-                "Prompt ID": "  4",
                 "Headline ID": "  1",
                 "Human": " Police Tracking Of Cellphones Raises Privacy Fears. WASHINGTON -- Law enforcement tracking of cellphones, once the province mainly of federal agents, has become a powerful and",
                 "Output": " Nation's Hide-and-Seek Championship Compromised as Police Start Tracking Cellphones, Privacy Advocates Not Amused."
@@ -432,7 +428,6 @@
         "description": "Thoughtful Creation Framework for Comedic Headline Reinterpretation",
         "headlines": [
             {
-                "Prompt ID": "  5",
                 "Headline ID": "  1",
                 "Human": " Police Tracking Of Cellphones Raises Privacy Fears. WASHINGTON -- Law enforcement tracking of cellphones, once the province mainly of federal agents, has become a powerful and",
                 "Output": " Washington Residents in Panic: Not Over Privacy, But Fearing Police Might Uncover Their Terrible TikTok Dances Amidst Cellphone Tracking."
@@ -539,7 +534,6 @@
         "description": "Feedback-Based Scoring Framework for Comedic Headline Reinterpretation",
         "headlines": [
             {
-                "Prompt ID": "  6",
                 "Headline ID": "  1",
                 "Human": " Police Tracking Of Cellphones Raises Privacy Fears. WASHINGTON -- Law enforcement tracking of cellphones, once the province mainly of federal agents, has become a powerful and",
                 "Output": " In this brave new world where Big Brother's not just peeping, but also GPSing our cellphones, shouldn't we just rebrand 'privacy' to 'pry-vacy'? Now, there's an upgrade that took a wrong exit!"
@@ -551,8 +545,8 @@
             },
             {
                 "Headline ID": "  3",
-                "Human": " Dear G8: Be Bold and Inclusive in Tackling Hunger. As an amateur climber for 20 years, I learned that to scale daunting cliffs and ice, two core attributes are required -- courage and teamwork. You probably feel like you have been climbing your own mountain after two days of G8 talks at Camp David",
-                "Output": " Dear G8: When Confronting Hunger, Be Bold, Be Brave, and Pack a Lunchbox. As a seasoned survivor of 20 years of midnight kitchen expeditions, I can confirm the essentials: courage and a reliable snack detector. You may feel like you've conquered K2 after two days of G8 talks at Camp David, but trust me, it's less intimidating than facing a mountain of dishes after a nacho night."
+                "Human": "Big Tax Deductions for College Expenses. Paying for college is costly.  But there are some tax benefits that can help parents who are footing the bill, or students who are independent.",
+                "Output": " Big Tax Deductions on College Expenses: It's Like Buying a Yacht and Getting a Discount on the Anchor!"
             },
             {
                 "Headline ID": "  4",
@@ -646,7 +640,6 @@
         "description": "Iterative Competitive Creation Framework for Comedic Headline Reinterpretation",
         "headlines": [
             {
-                "Prompt ID": "  7",
                 "Headline ID": "  1",
                 "Human": " Police Tracking Of Cellphones Raises Privacy Fears. WASHINGTON -- Law enforcement tracking of cellphones, once the province mainly of federal agents, has become a powerful and",
                 "Output": " Cellphone tracking by police raises privacy concerns. In other words, Santa Claus has some serious competition in the 'knowing-when-you're-awake' department."
@@ -753,7 +746,6 @@
         "description": "Adversarial Debate Framework for Comedic Headline Reinterpretation",
         "headlines": [
             {
-                "Prompt ID": "  8",
                 "Headline ID": "  1",
                 "Human": " Police Tracking Of Cellphones Raises Privacy Fears. WASHINGTON -- Law enforcement tracking of cellphones, once the province mainly of federal agents, has become a powerful and",
                 "Output": " \"From Big Brother to Big Data, Police Now Tracking Cellphones. Say hello to our new followers: The boys in blue!\""
